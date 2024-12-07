@@ -1,2 +1,1 @@
-# sTUDING-GIT-NIKOLA
-masteringGitAndGithub
+ I am trying so study hard !!!
